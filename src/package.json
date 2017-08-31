@@ -1,0 +1,13 @@
+{
+  "name":"nw-build-test",
+  "main":"index.html",
+  "window":{
+    "min_width":800,
+    "min_height":1000,
+    "icon":"assets/icon.png"
+  }
+}
+
+
+
+
